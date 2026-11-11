@@ -1,0 +1,34 @@
+Running Procedure.
+
+open anaconda prompt
+
+copy this path and paste it in 
+
+C:\Users\sirfa\Desktop\PythonUpdatedCode\Glaucoma\Glaucoma
+
+run the code use this command
+
+streamlit run glaucoma_app.py
+
+Browse the file and choose the file in that folder and then click the predict button then final output shown
+
+
+Thats all mam.....
+
+any doubts 
+
+view the code in visual studio code and then run the code in anacobda prompt
+
+
+in ipynb file........only one time is enough to run the code....
+
+main code is present in app only....
+
+you run the code in your professor 
+
+
+u run this alone....
+
+its clear..now i dsconnect it ya mam
+
+
